@@ -1,6 +1,6 @@
 # MY GITHUB WORKSPACE
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1557361857&psig=AOvVaw0nZEzUQY0f8Mf6o-2FddQF&ust=1709229475844000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjJ2ZLOzoQDFQAAAAAdAAAAABAI">
+<img src="https://i.pinimg.com/originals/ff/81/de/ff81dee1dcdd40d560569fe2ae94b6d3.gif">
 
 - 👋 Hi, I’m @Jennie547
 - 👀 I’m interested in ...
@@ -13,7 +13,8 @@
 
 ## Who am I?!
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2F4.bp.blogspot.com%2F-LInxR3KRtSs%2FXFx3c4K4RFI%2FAAAAAAAAgpY%2Fflcekx9deTYEH59n62lbeoNuiC2S4GhEACLcBGAs%2Fs400%2FI%252BLove%252BProgramming%252B%252528Animated%252BGIF%252529.gif&tbnid=0NKE3b2tC6fjBM&vet=12ahUKEwiinY7Lzc6EAxVdZaQEHZ6_C34QMygAegQIARBJ..i&imgrefurl=http%3A%2F%2Fwww.cjophoto.com%2F2019%2F02%2Fi-love-programming-animated-gif.html&docid=G-FeW-Te0FpwPM&w=400&h=320&q=i%20love%20programming%20gif%20download&ved=2ahUKEwiinY7Lzc6EAxVdZaQEHZ6_C34QMygAegQIARBJ">
+<img src="https://4.bp.blogspot.com/-LInxR3KRtSs/XFx3c4K4RFI/AAAAAAAAgpY/flcekx9deTYEH59n62lbeoNuiC2S4GhEACLcBGAs/s400/I%2BLove%2BProgramming%2B%2528Animated%2BGIF%2529.gif">
+
 
 Welcome to my project hub! I tackle various mini projects and assignments using a range of programming and other languages, including Bash, HTML, CSS, SCSS, JS, C, Java, and Python.
 
