@@ -1,6 +1,6 @@
 # MY GITHUB WORKSPACE
 
-<img src="https://i.pinimg.com/originals/ff/81/de/ff81dee1dcdd40d560569fe2ae94b6d3.gif">
+![WELCOME](https://i.pinimg.com/originals/ff/81/de/ff81dee1dcdd40d560569fe2ae94b6d3.gif)
 
 - 👋 Hi, I’m @Jennie547
 - 👀 I’m interested in ...
@@ -13,7 +13,7 @@
 
 ## Who am I?!
 
-<img src="https://4.bp.blogspot.com/-LInxR3KRtSs/XFx3c4K4RFI/AAAAAAAAgpY/flcekx9deTYEH59n62lbeoNuiC2S4GhEACLcBGAs/s400/I%2BLove%2BProgramming%2B%2528Animated%2BGIF%2529.gif">
+![I LOVE PROGRAMMING](https://4.bp.blogspot.com/-LInxR3KRtSs/XFx3c4K4RFI/AAAAAAAAgpY/flcekx9deTYEH59n62lbeoNuiC2S4GhEACLcBGAs/s400/I%2BLove%2BProgramming%2B%2528Animated%2BGIF%2529.gif)
 
 
 Welcome to my project hub! I tackle various mini projects and assignments using a range of programming and other languages, including Bash, HTML, CSS, SCSS, JS, C, Java, and Python.
