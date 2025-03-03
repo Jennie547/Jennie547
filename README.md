@@ -1,6 +1,6 @@
 # **Software Engineering Progress**
 
-Welcome to the **Software Engineering Progress Dashboard**, your central hub for tracking project milestones, activities, and accomplishments. This document provides a detailed overview of our journey, highlighting key achievements in project planning, design, implementation, testing, and deployment.
+Welcome to my **Software Engineering Progress Dashboard**, your central hub for tracking project milestones, activities, and accomplishments. This document provides a detailed overview of our journey, highlighting key achievements in project planning, design, implementation, testing, and deployment.
 
 ---
 
@@ -31,14 +31,14 @@ Welcome to the **Software Engineering Progress Dashboard**, your central hub for
 | Task Prioritization | ✅ Complete | Tasks aligned with business goals.|
 | Timeline Estimation | ⏳ In Progress | Updates scheduled bi-weekly.     |
 
-![Project Planning Progress](images/project_planning_graph.png)
+![Project Status](https://img.shields.io/badge/Progress-100%25-brightgreen)  
 
 ---
 
 ## **Design**
 ### **Key Activities:**
-- **Architectural Design:** Implementation of scalable microservices and MVC patterns.
-- **UI/UX Design:** Prototyping, testing, and refining for a seamless user experience.
+- **Architectural Design:** Implementation of scalable microservices and efficient state management.
+- **UI/UX Design:** Prototyping, testing, and refining for a seamless user experience using Flutter widgets.
 
 ### **Progress Overview:**
 - **Architectural Finalization:** ✅ Complete
@@ -55,16 +55,15 @@ Welcome to the **Software Engineering Progress Dashboard**, your central hub for
 
 ## **Implementation**
 ### **Key Activities:**
-- **Development:** Active coding with adherence to best practices.
+- **Development:** Active coding in Dart with adherence to best practices.
 - **Code Reviews:** Regular peer reviews to ensure quality.
 - **Version Control:** Git workflows for smooth collaboration.
 
 ### **Highlights:**
 | Language/Framework  | Usage       |
 |---------------------|-------------|
-| **Python**          | Backend API |
-| **React**           | Frontend    |
-| **Django**          | Server-side logic |
+| **Dart**            | Flutter app development |
+| **HTML/CSS/JS**     | Web components and interactivity |
 
 ### **Code Progress Chart:**
 ![Code Progress](images/code_progress_chart.jpg)
@@ -73,8 +72,8 @@ Welcome to the **Software Engineering Progress Dashboard**, your central hub for
 
 ## **Testing**
 ### **Key Activities:**
-- **Unit Testing:** Verified individual components for expected functionality.
-- **Integration Testing:** Ongoing validation of component interactions.
+- **Unit Testing:** Verified individual Flutter widgets for expected functionality.
+- **Integration Testing:** Ongoing validation of component interactions in Flutter.
 - **User Acceptance Testing (UAT):** Scheduled for the upcoming sprint.
 
 ### **Testing Metrics:**
@@ -84,8 +83,8 @@ Welcome to the **Software Engineering Progress Dashboard**, your central hub for
 | **Test Cases Passed**| 150/180|
 
 ### **Testing Tools:**
-- JUnit
-- Selenium
+- Flutter Test
+- Mockito
 
 ![Testing Progress](images/testing_dashboard.png)
 
@@ -93,12 +92,12 @@ Welcome to the **Software Engineering Progress Dashboard**, your central hub for
 
 ## **Deployment**
 ### **Key Activities:**
-- **CI/CD Pipeline:** Automated builds, tests, and deployments.
+- **CI/CD Pipeline:** Automated builds, tests, and deployments to various platforms.
 - **Staging Environment:** Stable deployment for final testing.
 
 | Deployment Metric     | Value          |
 |-----------------------|----------------|
-| **Platform**          | AWS, Docker    |
+| **Platform**          | Firebase, AWS  |
 | **Deployment Frequency** | Weekly       |
 | **Staging Success Rate** | 95%         |
 
@@ -115,4 +114,3 @@ Welcome to the **Software Engineering Progress Dashboard**, your central hub for
 ### **Contact Information**
 📧 Email: [project-email@example.com](mailto:project-email@example.com)  
 📌 GitHub: [Project Repository](#)
-
